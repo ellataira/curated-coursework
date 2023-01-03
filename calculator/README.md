@@ -1,4 +1,3 @@
-# Assignment 2: A Calculator in Assembly
+# Calculator in Assembly
 
-This is your starter code repo for Assignment 2. Please see the corresponding description on our website under [Assignments](https://course.ccs.neu.edu/cs3650f22/hw.html).
-
+This is a basic, four-function calculator written in Assembly for Computer Systems. The calculator implements the add, subtract, divide, and multiply functions.
