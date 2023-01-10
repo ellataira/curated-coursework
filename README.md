@@ -20,3 +20,9 @@ A collection of previous coursework I have completed at Northeastern University.
 - This course covered the basic cybersecurity principles and concepts, including systems and communications security.
 
 **Coursework:** /password-gen
+
+## Object-Oriented Design (CS3500)
+- Language: Java 
+- This course follows Fundamentals of CS 1 & 2. In this course, I expanded my Java knowledge and general design-thinking when writing object-oriented code. 
+
+**Coursework:** /marbles
